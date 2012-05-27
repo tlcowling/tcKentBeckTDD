@@ -4,11 +4,14 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41df2bd4-637e-4681-8163-86b8ec65260e" name="Default" comment="Stage 11 - The root of all evil">
+    <list default="true" id="41df2bd4-637e-4681-8163-86b8ec65260e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MultiCurrencyModel/Dollar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MultiCurrencyModel/Franc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Dollar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Franc.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Dollar.java" afterPath="$PROJECT_DIR$/src/Dollar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Franc.java" afterPath="$PROJECT_DIR$/src/Franc.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Money.java" afterPath="$PROJECT_DIR$/src/Money.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/MoneyTest.java" afterPath="$PROJECT_DIR$/test/MoneyTest.java" />
     </list>
     <ignored path="MultiCurrencyModel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,28 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dollar.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dollar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="5" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Franc.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Franc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Money.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="719" selection-end="719" vertical-scroll-proportion="0.6357616">
+            <state line="29" column="19" selection-start="662" selection-end="662" vertical-scroll-proportion="0.48164147">
               <folding />
             </state>
           </provider>
@@ -96,7 +81,7 @@
       <file leaf-file-name="MoneyTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/MoneyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
+            <state line="33" column="0" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +104,10 @@
       <list>
         <option value="$PROJECT_DIR$/test/FrancTest.java" />
         <option value="$PROJECT_DIR$/test/DollarTest.java" />
-        <option value="$PROJECT_DIR$/test/MoneyTest.java" />
-        <option value="$PROJECT_DIR$/src/Money.java" />
         <option value="$PROJECT_DIR$/src/Franc.java" />
         <option value="$PROJECT_DIR$/src/Dollar.java" />
+        <option value="$PROJECT_DIR$/test/MoneyTest.java" />
+        <option value="$PROJECT_DIR$/src/Money.java" />
       </list>
     </option>
   </component>
@@ -431,7 +416,11 @@
       <created>1338114202335</created>
       <updated>1338114202335</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Stage 11 - The root of all evil">
+      <created>1338116188840</created>
+      <updated>1338116188840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -447,13 +436,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816446" sideWeight="0.6593407" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34065935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816446" sideWeight="0.6730769" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34065935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -497,7 +486,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying commit via intellij :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stage 12 - Addition, Finally" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -511,6 +500,8 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Trying commit via intellij :)" />
+    <MESSAGE value="Stage 11 - The root of all evil" />
+    <MESSAGE value="Stage 12 - Addition, Finally" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -522,30 +513,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/MoneyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Franc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dollar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="5" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="719" selection-end="719" vertical-scroll-proportion="0.6357616">
+        <state line="29" column="19" selection-start="662" selection-end="662" vertical-scroll-proportion="0.48164147">
           <folding />
         </state>
       </provider>
