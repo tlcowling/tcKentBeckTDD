@@ -1,0 +1,5 @@
+MultiCurrencyModel
+==================
+
+A classic Java implementation to represent Money in some kind of monetary system
+requiring operations on and conversion of money.
