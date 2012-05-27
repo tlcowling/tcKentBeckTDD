@@ -7,12 +7,19 @@ class Money implements Expression{
         this.currency = currency;
     }
 
+    public Money reduce(Bank bank, String to){
+        int rate =  (currency.equals("CHF") && to.equals("USD"))
+                ? 2
+                : 1;
+        return new Money(amount/rate, to);
+    }
+
     public String currency(){
         return currency;
     }
 
     public Expression plus(Money addend){
-        return new Money(amount + addend.amount,currency);
+        return new Sum(this, addend);
     }
 
     public Money times(int multiplier) {
