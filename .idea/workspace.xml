@@ -4,7 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41df2bd4-637e-4681-8163-86b8ec65260e" name="Default" comment="" />
+    <list default="true" id="41df2bd4-637e-4681-8163-86b8ec65260e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Dollar.java" afterPath="$PROJECT_DIR$/src/Dollar.java" />
+    </list>
     <ignored path="MultiCurrencyModel.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dollar.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Dollar.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Dollar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="32" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="4" column="33" selection-start="148" selection-end="148" vertical-scroll-proportion="0.13245033">
               <folding />
             </state>
           </provider>
@@ -88,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoneyTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MoneyTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/MoneyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="33" selection-start="744" selection-end="744" vertical-scroll-proportion="0.43514645">
+            <state line="32" column="51" selection-start="1045" selection-end="1053" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,6 +109,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -113,8 +119,8 @@
         <option value="$PROJECT_DIR$/test/DollarTest.java" />
         <option value="$PROJECT_DIR$/src/Franc.java" />
         <option value="$PROJECT_DIR$/src/Money.java" />
-        <option value="$PROJECT_DIR$/src/Dollar.java" />
         <option value="$PROJECT_DIR$/test/MoneyTest.java" />
+        <option value="$PROJECT_DIR$/src/Dollar.java" />
       </list>
     </option>
   </component>
@@ -141,7 +147,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -228,7 +234,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.editor" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -423,7 +429,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="633" y="22" width="729" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,8 +445,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816446" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24816446" sideWeight="0.6593407" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34065935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -506,10 +512,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Franc.java">
+    <entry file="file://$PROJECT_DIR$/test/MoneyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="5" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="32" column="51" selection-start="1045" selection-end="1053" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -520,19 +528,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dollar.java">
+    <entry file="file://$PROJECT_DIR$/src/Franc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="32" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+        <state line="9" column="5" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/MoneyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="33" selection-start="744" selection-end="744" vertical-scroll-proportion="0.43514645">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="4" column="33" selection-start="148" selection-end="148" vertical-scroll-proportion="0.13245033">
+          <folding />
         </state>
       </provider>
     </entry>

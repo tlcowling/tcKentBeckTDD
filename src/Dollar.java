@@ -1,5 +1,4 @@
 public class Dollar extends Money{
-    private String currency;
 
     public Dollar(int amount, String currency) {
         this.amount = amount;
